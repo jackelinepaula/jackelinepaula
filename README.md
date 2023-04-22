@@ -1,4 +1,28 @@
-### Olá🌸
+## Oi, sou a Jackeline Paula
+**@jackelinepaula**
+
+
+
+### 🙋‍♀️Sobre mim
+
+#### Sou desenvolvedora FullStack 🎯 e estudante de Desenvolvimento de Software na Fatec Zona Leste ✨
+
+- 🌱 Atualmente estou aprendendo **Javascript** e **NodeJS**
+
+
+### Contato
+<div>
+  <a href="https://www.linkedin.com/in/jackeline-menezes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
+
+
+### Tecnologias
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,javascript,nodejs,java,git,php,mysql" />
+  </a>
+</p>
+
 
 <!--
 **jackelinepaula/jackelinepaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +30,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
