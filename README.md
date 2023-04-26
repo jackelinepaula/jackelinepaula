@@ -19,6 +19,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,javascript,nodejs,java,git,php,mysql,laravel" />
+    ![](https://github.com/jackelinepaula/jackelinepaula/blob/main/cat.gif)
   </a>
 </p>
 
