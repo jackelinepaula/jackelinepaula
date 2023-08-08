@@ -6,7 +6,7 @@
 
 #### Sou desenvolvedora FullStack 🎯 e estudante de Desenvolvimento de Software na Fatec Zona Leste ✨
 
-- 🌱 Atualmente estou aprendendo **Javascript** e **NodeJS**
+- 🌱 Atualmente estou aprendendo a desenvolver aplicações **NextJS** com **ReactJS**
 
 
 ### Contato
@@ -18,7 +18,7 @@
 ### Tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,javascript,nodejs,java,git,php,mysql,laravel" />
+    <img src="https://skillicons.dev/icons?i=css,html,javascript,react,nextjs,nodejs,java,php,laravel,mysql,git" />
   </a>
 </p>
 
