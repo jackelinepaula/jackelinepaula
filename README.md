@@ -6,7 +6,8 @@
 
 #### Sou desenvolvedora FullStack 🎯 e estudante de Desenvolvimento de Software na Fatec Zona Leste ✨
 
-- 🌱 Atualmente estou aprendendo a desenvolver aplicações **NextJS** com **ReactJS**
+- 🌱 Aprendendo a desenvolver aplicações **NextJS** com **ReactJS**
+- 🌱 Aprendendo o framework **Spring**
 
 
 ### Contato
