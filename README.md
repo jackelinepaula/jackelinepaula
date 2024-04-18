@@ -2,7 +2,7 @@
 
 
 
-### 🙋‍♀️Sobre mim
+### ✨Sobre mim
 
 #### Sou desenvolvedora FullStack 🎯 e estudante de Desenvolvimento de Software na Fatec Zona Leste ✨
 
