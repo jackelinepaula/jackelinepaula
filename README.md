@@ -19,7 +19,7 @@
 ### Tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,css,react,kotlin,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=css,react,java,spring,kotlin,mysql,git" />
   </a>
 </p>
 
