@@ -1,14 +1,12 @@
 ## Oi, sou a Jackeline Paula
 
 
-
 ### ✨Sobre mim
 
 #### Sou desenvolvedora FullStack 🎯 e estudante de Desenvolvimento de Software na Fatec Zona Leste ✨
 
-- 🌱 Aprendendo a desenvolver aplicações **ReactJS** (com **NextJS**) 
 - 🌱 Aprendendo o framework **Spring**
-
+- 🌱 Aprendendo a desenvolver **Android** com **Kotlin**
 
 ### Contato
 <div>
