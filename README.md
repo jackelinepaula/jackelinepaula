@@ -1,26 +1,27 @@
-## Oi, sou a Jackeline Paula
+## Oie, me chamo Jackeline
 
 
-### ✨Sobre mim
+#### Sobre mim 💅
 
-#### Sou desenvolvedora FullStack 🎯 e estudante de Desenvolvimento de Software na Fatec Zona Leste ✨
 
-- 🌱 Aprendendo o framework **Spring**
-- 🌱 Aprendendo a desenvolver **Android** com **Kotlin**
+Sou desenvolvedora **FullStack** e estudante de tecnologia. Minha jornada na programação começou em 2019 e, desde então, me apaixonei pela área. É onde eu consigo combinar expertise técnica com criatividade para criar soluções para os desafios que encontrar. Busco sempre aprimorar meus conhecimentos na área, aplicando-os em projetos pessoais, acadêmicos e como freelancer. Minha stack principal é Java.
+
+
+🌱 Atualmente estou aprendendo...
+- **Kotlin Multiplatform**, para desenvolver aplicações que rodam em plataformas diferentes como web, mobile (Android e IOS) e desktop.
+
+
+#### Tecnologias
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,kotlin,spring,css,react,postgres,mysql,mongodb,git" />
+  </a>
+</p>
 
 ### Contato
 <div>
   <a href="https://www.linkedin.com/in/jackeline-menezes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
-
-
-### Tecnologias
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,react,java,spring,kotlin,mysql,mongodb,git" />
-  </a>
-</p>
-
 
 <!--
 **jackelinepaula/jackelinepaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
