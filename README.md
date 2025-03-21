@@ -14,7 +14,7 @@ Sou desenvolvedora **FullStack** e estudante de tecnologia. Minha jornada na pro
 #### Tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,kotlin,spring,css,react,postgres,mysql,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=java,cs,kotlin,spring,css,react,vue,postgres,mysql,mongodb,git" />
   </a>
 </p>
 
