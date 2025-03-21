@@ -9,6 +9,7 @@ Sou desenvolvedora **FullStack** e estudante de tecnologia. Minha jornada na pro
 
 🌱 Atualmente estou aprendendo...
 - **Kotlin Multiplatform**, para desenvolver aplicações que rodam em plataformas diferentes como web, mobile (Android e IOS) e desktop.
+- **Vue.js**, para desenvolver páginas na web.
 
 
 #### Tecnologias
