@@ -4,7 +4,7 @@
 #### Sobre mim 💅
 
 
-Sou desenvolvedora **FullStack** e estudante de tecnologia. Minha jornada na programação começou em 2019 e, desde então, me apaixonei pela área. É onde eu consigo combinar expertise técnica com criatividade para criar soluções para os desafios que encontrar. Busco sempre aprimorar meus conhecimentos na área, aplicando-os em projetos pessoais, acadêmicos e como freelancer. Minha stack principal é Java.
+Sou desenvolvedora **FullStack** e estudante de tecnologia. Minha jornada na programação começou em 2019 e, desde então, me apaixonei pela área. É onde eu consigo combinar expertise técnica com criatividade para criar soluções para os desafios que encontrar. Busco sempre aprimorar meus conhecimentos na área, aplicando-os em projetos pessoais e que participo. Minha stack principal é Java.
 
 
 🌱 Atualmente estou aprendendo...
